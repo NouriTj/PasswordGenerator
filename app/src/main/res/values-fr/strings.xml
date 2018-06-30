@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!DOCTYPE resources [
+        <!ENTITY app_name "Password Generator">
+        <!ENTITY app_url "https://play.google.com/store/apps/details?id=net.tncode.passwordgenerator">
+        ]>
+<resources>
+    <string name="text_about_app">Générer rapidement des mots de passe à haute sécurité.</string>
+    <string name="text_share_app">Essayez l\'application &app_name;, pour générer rapidement des mots de passe à haute sécurité.\t &app_url;</string>
+    <string name="text_share">\nMot de passe généré avec l\'application &app_name; \t &app_url;</string>
+    <string name="text_copied">Texte copié dans le presse-papiers</string>
+    <string name="share">Partager</string>
+    <string name="strong">Fort</string>
+    <string name="medium">Moyen</string>
+    <string name="weak">Faible</string>
+    <string name="generate">Générer</string>
+    <string name="length">Longueur : </string>
+    <string name="copy">Copier</string>
+    <string name="about">À propos</string>
+</resources>

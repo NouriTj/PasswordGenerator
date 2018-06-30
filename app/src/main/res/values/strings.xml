@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY app_name "Password Generator">
+    <!ENTITY app_url "https://play.google.com/store/apps/details?id=net.tncode.passwordgenerator">
+    ]>
+<resources>
+   <string name="admob_app_id" translatable="false">ca-app-pub-7079126585670983~3696610558</string>
+   <!--  <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+  <string name="interstitiel_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>-->
+  <string name="banner_ad_unit_id" translatable="false">ca-app-pub-7079126585670983/5173343757</string>
+   <string name="interstitiel_ad_unit_id" translatable="false">ca-app-pub-7079126585670983/7026363351</string>
+   <string name="app_name" translatable="false">Password Generator</string>
+   <string name="app_url" translatable="false">https://play.google.com/store/apps/details?id=net.tncode.passwordgenerator</string>
+   <string name="text_about_app">Quickly generate high-security passwords</string>
+   <string name="text_share_app">Try the application &app_name;, to quickly generate high-security passwords.\t&app_url;</string>
+   <string name="text_share">\nPassword generated with the application &app_name; \t </string>
+   <string name="text_copied">Text copied to clipbord</string>
+   <string name="share">Share</string>
+   <string name="strong">Strong</string>
+   <string name="medium">Medium</string>
+   <string name="weak">Weak</string>
+   <string name="generate">Generate</string>
+   <string name="length">Length: </string>
+   <string name="copy">Copy</string>
+   <string name="about">About</string>
+</resources>
